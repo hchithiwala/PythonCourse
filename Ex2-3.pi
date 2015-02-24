@@ -1,0 +1,7 @@
+# Exercise 2.3
+print 'Enter your hours worked this week: '
+hours = raw_input()
+print 'Enter pay rate: '
+rate = raw_input()
+gross_pay = int(hours) * float(rate)
+print 'gross pay is ' + str(gross_pay)
