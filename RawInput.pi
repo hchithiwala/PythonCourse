@@ -1,0 +1,4 @@
+# Exercise 2.2
+print 'Enter your name: '
+input = raw_input()
+print 'Hello ' + input
